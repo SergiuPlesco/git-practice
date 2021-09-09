@@ -8,7 +8,7 @@ h6 {
 }
 
 .div-p {
-  background-color: violet;
+  background-color: rgb(130, 173, 238);
   height: 300px;
   display: flex;
   justify-content: center;
