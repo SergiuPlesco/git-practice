@@ -14,6 +14,10 @@ h6 {
   justify-content: center;
   align-items: center;
 }
+.div-p p {
+  font-size: 3rem;
+  font-weight: bold;
+}
 p {
   color: tomato;
 }
