@@ -8,7 +8,7 @@ h6 {
 }
 
 .div-p {
-  background-color: violet;
+  background-color: rgb(9, 24, 236);
   height: 300px;
   display: flex;
   justify-content: center;
@@ -19,5 +19,5 @@ h6 {
   font-weight: bold;
 }
 p {
-  color: tomato;
+  color: rgb(230, 226, 225);
 }
