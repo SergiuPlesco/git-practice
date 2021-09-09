@@ -17,7 +17,8 @@ h6 {
 .div-p p {
   font-size: 3rem;
   font-weight: bold;
+  color: rgb(230, 226, 225);
 }
 p {
-  color: rgb(230, 226, 225);
+  color: #555;
 }
