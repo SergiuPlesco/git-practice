@@ -7,6 +7,13 @@ h6 {
   text-transform: uppercase;
 }
 
+.div-p {
+  background-color: violet;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 p {
   color: tomato;
 }
