@@ -7,10 +7,15 @@ h6 {
   text-transform: uppercase;
 }
 
+<<<<<<< HEAD
 .div-p {
   background-color: violet;
   height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
+=======
+p {
+  color: tomato;
+>>>>>>> 5be0ca2 (p tomato color)
 }
